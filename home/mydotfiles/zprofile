@@ -1,0 +1,5 @@
+emulate sh -c 'source /etc/profile'
+
+#export PANEL_FIFO="/tmp/panel-fifo"
+#export PATH=$PATH:/home/thomas/Documents/panel
+
